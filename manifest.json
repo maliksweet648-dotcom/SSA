@@ -10,15 +10,15 @@
   "theme_color": "#0c2338",
   "icons": [
     {
-      "src": "https://ssa.musamtt.com/favicon.png",
+      "src": "ssa_logo.jpg.jpeg",
       "sizes": "192x192",
-      "type": "image/png",
+      "type": "image/jpeg",
       "purpose": "any maskable"
     },
     {
-      "src": "https://ssa.musamtt.com/favicon.png",
+      "src": "ssa_logo.jpg.jpeg",
       "sizes": "512x512",
-      "type": "image/png",
+      "type": "image/jpeg",
       "purpose": "any maskable"
     }
   ]
