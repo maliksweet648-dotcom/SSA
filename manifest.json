@@ -10,7 +10,7 @@
   "theme_color": "#0c2338",
   "icons": [
     {
-      "src": "https://raw.githubusercontent.com/maliksweet648-dotcom/SSA/main/ssa_logo.jpg.jpeg",
+      "src": "ssa_logo.jpg.jpeg",
       "sizes": "192x192 512x512",
       "type": "image/jpeg",
       "purpose": "any maskable"
